@@ -8,6 +8,7 @@
 * Cockpit for headless management
 * Wireshark
 * Static IP on port ```10.1.10.111```
+* Hostname : diagbox
 
 ## Code
 
