@@ -8,3 +8,10 @@
 * Cockpit for headless management
 * Wireshark
 * Static IP on port ```10.1.10.111```
+
+## Code
+
+```sh
+git clone https://github.com/trifoil/wireshark-port-mirroring/.git
+
+```
