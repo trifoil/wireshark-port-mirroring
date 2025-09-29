@@ -2,7 +2,7 @@
 
 sudo apt update -y
 sudo apt upgrade -y
-sudo apt install nmtui -y
+
 sudo apt install wireshark -y
 
 . /etc/os-release
